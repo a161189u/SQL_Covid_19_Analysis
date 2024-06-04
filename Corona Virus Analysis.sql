@@ -104,8 +104,9 @@ DESCRIBE corona_virus;
 
 SELECT DATE FROM corona_virus; 
 
-/* Basic Query Executed successfully means Database creation, table creation, 
-loading data by using load query and changing datatype for each column.
+/* The successful execution of the basic query includes creating the database, 
+creating tables, loading data using the load query, and changing the data type 
+for each column.
 */
 
 
