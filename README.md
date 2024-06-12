@@ -40,11 +40,14 @@ Q9. Find maximum values of confirmed, deaths, recovered per year
 
 Q10. The total number of case of confirmed, deaths, recovered each month
 
-Q11. Check how corona virus spread out with respect to confirmed case (Eg.: total confirmed cases, their average, variance & STDEV )
+Q11. Check how corona virus spread out with respect to confirmed case 
+(Eg.: total confirmed cases, their average, variance & STDEV )
 
-Q12. Check how corona virus spread out with respect to death case per month (Eg.: total confirmed cases, their average, variance & STDEV )
+Q12. Check how corona virus spread out with respect to death case per month 
+(Eg.: total confirmed cases, their average, variance & STDEV )
 
-Q13. Check how corona virus spread out with respect to recovered case (Eg.: total confirmed cases, their average, variance & STDEV )
+Q13. Check how corona virus spread out with respect to recovered case 
+(Eg.: total confirmed cases, their average, variance & STDEV )
 
 Q14. Find Country having highest number of the Confirmed case
 
