@@ -8,8 +8,11 @@ Project 1: Corona Virus Analysis
 Tools Used:
 
 💻 MySQL: For analysis
+
 📊 PowerPoint: For presentation
+
 🎥 OBS Studio: For video presentation
+
 ✂️ VSDC Video Editor: For video editing
 
 Using the "Reference File for Corona data" with 16 questions, I performed detailed analysis by writing SQL queries.
