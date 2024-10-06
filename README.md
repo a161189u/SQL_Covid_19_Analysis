@@ -1,4 +1,4 @@
-Project: Corona Virus Analysis
+**Project: Corona Virus Analysis**
 
 I just wrapped up an in-depth analysis project on COVID-19 data using SQL.
 
